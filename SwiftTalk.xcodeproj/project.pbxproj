@@ -11,6 +11,12 @@
 		313268902BE4E08300A7A4FC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3132688F2BE4E08300A7A4FC /* ContentView.swift */; };
 		313268922BE4E08400A7A4FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 313268912BE4E08400A7A4FC /* Assets.xcassets */; };
 		313268952BE4E08400A7A4FC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 313268942BE4E08400A7A4FC /* Preview Assets.xcassets */; };
+		3132689C2BE4E09400A7A4FC /* StateEg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3132689B2BE4E09400A7A4FC /* StateEg.swift */; };
+		3132689E2BE4E94900A7A4FC /* BindingEg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3132689D2BE4E94900A7A4FC /* BindingEg.swift */; };
+		313268A02BE5047E00A7A4FC /* StateObjectEg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3132689F2BE5047E00A7A4FC /* StateObjectEg.swift */; };
+		313268A22BE50A7300A7A4FC /* ObservedObjectEg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 313268A12BE50A7300A7A4FC /* ObservedObjectEg.swift */; };
+		3141A1112BE5D59C0052C311 /* ObservedObjectEg1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3141A1102BE5D59C0052C311 /* ObservedObjectEg1.swift */; };
+		3141A1132BE5E0660052C311 /* EnvironmentObjEg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3141A1122BE5E0660052C311 /* EnvironmentObjEg.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		3132688F2BE4E08300A7A4FC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		313268912BE4E08400A7A4FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		313268942BE4E08400A7A4FC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3132689B2BE4E09400A7A4FC /* StateEg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateEg.swift; sourceTree = "<group>"; };
+		3132689D2BE4E94900A7A4FC /* BindingEg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingEg.swift; sourceTree = "<group>"; };
+		3132689F2BE5047E00A7A4FC /* StateObjectEg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateObjectEg.swift; sourceTree = "<group>"; };
+		313268A12BE50A7300A7A4FC /* ObservedObjectEg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservedObjectEg.swift; sourceTree = "<group>"; };
+		3141A1102BE5D59C0052C311 /* ObservedObjectEg1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservedObjectEg1.swift; sourceTree = "<group>"; };
+		3141A1122BE5E0660052C311 /* EnvironmentObjEg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjEg.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +65,12 @@
 			children = (
 				3132688D2BE4E08300A7A4FC /* SwiftTalkApp.swift */,
 				3132688F2BE4E08300A7A4FC /* ContentView.swift */,
+				3132689B2BE4E09400A7A4FC /* StateEg.swift */,
+				3132689D2BE4E94900A7A4FC /* BindingEg.swift */,
+				3132689F2BE5047E00A7A4FC /* StateObjectEg.swift */,
+				313268A12BE50A7300A7A4FC /* ObservedObjectEg.swift */,
+				3141A1102BE5D59C0052C311 /* ObservedObjectEg1.swift */,
+				3141A1122BE5E0660052C311 /* EnvironmentObjEg.swift */,
 				313268912BE4E08400A7A4FC /* Assets.xcassets */,
 				313268932BE4E08400A7A4FC /* Preview Content */,
 			);
@@ -137,6 +155,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				313268A22BE50A7300A7A4FC /* ObservedObjectEg.swift in Sources */,
+				3132689C2BE4E09400A7A4FC /* StateEg.swift in Sources */,
+				3132689E2BE4E94900A7A4FC /* BindingEg.swift in Sources */,
+				313268A02BE5047E00A7A4FC /* StateObjectEg.swift in Sources */,
+				3141A1112BE5D59C0052C311 /* ObservedObjectEg1.swift in Sources */,
+				3141A1132BE5E0660052C311 /* EnvironmentObjEg.swift in Sources */,
 				313268902BE4E08300A7A4FC /* ContentView.swift in Sources */,
 				3132688E2BE4E08300A7A4FC /* SwiftTalkApp.swift in Sources */,
 			);

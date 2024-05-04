@@ -22,3 +22,10 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+
+// luma
+// eventbrite
+// tech events in mumbai - whatsapp
+// google dev
+// 
