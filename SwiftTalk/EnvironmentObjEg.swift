@@ -13,7 +13,7 @@ class PurchaseViewModel: ObservableObject {
     @Published var hasPurchasedSubscription: Bool = false
 }
 
-//@main
+// @main
 struct TestProjectApp: App {
     // 3. Instance of source of truth created at the root
     @StateObject var vm = PurchaseViewModel()

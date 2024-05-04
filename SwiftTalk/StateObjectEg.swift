@@ -11,7 +11,6 @@ import SwiftUI
 
 // 2. VM that conform Obersvable Obj & count property
 class CounterViewModel: ObservableObject {
-//    @Published 
     @Published var count: Int = 0
 
     func updateCount() {
