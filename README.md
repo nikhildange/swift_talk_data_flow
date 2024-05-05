@@ -7,6 +7,7 @@ We will discuss property wrappers provided by SwiftUI to how data moves & update
 instagram: https://www.instagram.com/journey_ios﻿
 
 
+
 @State
 
 @Binding
@@ -91,6 +92,8 @@ Share data across app
 @Published
 Publish changes to properties
 
+
+![Reference](https://github.com/nikhildange/swift_talk_data_flow/blob/main/cf49d8a3-9436-4768-a553-229a452d957e.webp)
 
 -->
  @State?
